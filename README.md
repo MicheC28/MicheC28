@@ -3,13 +3,24 @@
 I'm Michelle, a computer engineering student with a keen interest in developing robotics, wearable tech, and overall cool things! Welcome to my Github profile!🙌
 
 ### My Repos 
-Repository 1: Online Clipboard 📋
+Repository 1: Personal Portfolio Site
+- I created a personal portfolio site to display my projects and experiences using HTML5, CSS3, and JavaScript.
+- Deployed using Netlify.
+- This is such a fun project that really allows my creativity to shine 🌟!
+
+Repository 2: Online Clipboard 📋
 - As my first web dev project, I created a chrome extension that allows uers to keep track of key sites' URLs as well as a small note to accompany them.
 
 ### Technologies
- - Programming Languages: HTML5, CSS3, JavaScript, C++
+ - Programming Languages: C++, Python3, HTML5, CSS3, JavaScript
+ - Libraries: scikit-learn, pandas
  - STM32-NucleoF401RE Microcontroller
  - Electronic components such as LEDs, piezos, servo motor, and limit switches.
+
+### Certifications
+- Python - Kaggle
+- IBM Z Xplore - Concepts Badge
+- Intro to Machine Learning - Kaggle
 
 ### Fun Facts! :D
 - I'm left-handed.
