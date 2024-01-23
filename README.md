@@ -11,6 +11,10 @@ Repository 1: Personal Portfolio Site
 Repository 2: Online Clipboard 📋
 - As my first web dev project, I created a chrome extension that allows uers to keep track of key sites' URLs as well as a small note to accompany them.
 
+Repsitory 3: Rainy Riches Game 💸💸
+- Designed and programmed a video game in Processing5 where users control a box to catch $$$ bills falling out of the sky.
+- I built this back in quarantine when I first started learning programming. For a first project, I'm really proud of it.
+
 ### Technologies
  - Programming Languages: C++, Python3, HTML5, CSS3, JavaScript
  - Libraries: scikit-learn, pandas
@@ -21,6 +25,7 @@ Repository 2: Online Clipboard 📋
 - Python - Kaggle
 - IBM Z Xplore - Concepts Badge
 - Intro to Machine Learning - Kaggle
+- Pandas - Kaggle
 
 ### Fun Facts! :D
 - I'm left-handed.
