@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michelle, a computer engineering student with a keen interest in developing robotics, wearable tech, and overall cool things! Welcome to my Github profile!🙌
+Hi! I’m a computer engineering student who enjoys getting hands-on with tech. I’ve spent time programming Arduino and STM boards, playing around with digital data filters, and managing projects. I’m always curious and looking to dive deeper into embedded systems and software engineering. There’s always a new problem to solve or project to bring to life.
 
 ### My Repos 
 Repository 1: Personal Portfolio Site
