@@ -7,6 +7,7 @@ Repository 1: Personal Portfolio Site
 - I created a personal portfolio site to display my projects and experiences using HTML5, CSS3, and JavaScript.
 - Deployed using Netlify.
 - This is such a fun project that really allows my creativity to shine 🌟!
+- One of the newest additions is a on the projects page, mimicing the Apple watch Bubble UI.
 
 Repository 2: Online Clipboard 📋
 - As my first web dev project, I created a chrome extension that allows uers to keep track of key sites' URLs as well as a small note to accompany them.
@@ -17,9 +18,9 @@ Repsitory 3: Rainy Riches Game 💸💸
 
 ### Technologies
  - Programming Languages: C++, Python3, HTML5, CSS3, JavaScript
- - Libraries: scikit-learn, pandas
- - STM32-NucleoF401RE Microcontroller
- - Electronic components such as LEDs, piezos, servo motor, and limit switches.
+ - Libraries: scikit-learn, pandas, Scipy
+ - STM32-NucleoF401RE Microcontroller, Arduino
+ - Electronic components such as GPIO, ADC, DAC, I2C, DMA
 
 ### Certifications
 - Python - Kaggle
@@ -33,7 +34,7 @@ Repsitory 3: Rainy Riches Game 💸💸
 
 ### Connect!
 - LinkedIn: https://www.linkedin.com/in/michelle-chen--/
-- Portfolio: Coming soon! 
+- Portfolio: https://michellechenportfolio.netlify.app/index.html
 
 <!--
 **MicheC28/MicheC28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
