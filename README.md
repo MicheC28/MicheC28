@@ -9,6 +9,7 @@ Repos:
 - TinyTapeOut Simon Says: Verilog
 - Windsor Housing Price Predictor: pandas, matplotlib, scikit-learn
 - Mapping Via Routes: pandas, matplotlib, a 2 and a half hour delay
+- Console Tetris: C
   
 Skills: 
  - Languages: C/C++, C#, Python, JavaScript/Typescript, Verilog, RISC-V
